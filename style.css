@@ -68,7 +68,12 @@ a,
 a:visited {
 	color: white;
 }
-
+.vk-rectangle {
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 10% !important;
+	display: inline-block;
+}
 .vk-round {
 	text-align: center;
 	vertical-align: middle;
