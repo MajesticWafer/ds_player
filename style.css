@@ -54,6 +54,7 @@ canvas {
 }
 
 #menu button {
+	position: absolute;
 	top: 5vh;
 	width: 50%;
 	height: 50%;
