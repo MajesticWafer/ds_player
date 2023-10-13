@@ -54,10 +54,8 @@ canvas {
 }
 
 #menu button {
-	position: absolute;
-        width: 35%;
-	height: 35%;
-	top: 5vh;
+        width: 1%;
+	height: 1%;
 	border-radius: 15%;
 	background: transparent;
 }
@@ -81,8 +79,6 @@ a:visited {
 	vertical-align: middle;
 	border-radius: 50% !important;
 	display: inline-block;
-	width: 75%
-	height: 75%
 }
 
 .vk {
