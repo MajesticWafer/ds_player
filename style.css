@@ -20,7 +20,7 @@ body {
 canvas {
 	position: absolute;
 	z-index: 1;
-	image-rendering: pixelated;
+	image-rendering: linear;
 }
 
 #msg-layer {
