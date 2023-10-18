@@ -54,9 +54,9 @@ canvas {
 }
 
 #menu button {
-        width: 25%;
-	height: 25%;
-	border-radius: 7.5%;
+        width: 50%;
+	height: 50%;
+	border-radius: 7.5% !important;
 	background: transparent;
 }
 
